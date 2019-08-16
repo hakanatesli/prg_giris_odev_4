@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+c:\users\hakan ateşli\source\repos\2a_g171210002_ödev4\2a_g171210002_ödev4\kaynak.cpp(8): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  2A_G171210002_ÖDEV4.vcxproj -> C:\Users\Hakan Ateşli\source\repos\2A_G171210002_ÖDEV4\Debug\2A_G171210002_ÖDEV4.exe
